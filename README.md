@@ -21,7 +21,7 @@ data.head()
 
 ### Ploting the Heatmap
 
-![alt Survived](https://github.com/rahuljadli/Housing-Price-Prediction/blob/master/screen_shots/heatmap.png)
+![alt Survived](https://rahuljadli.github.io/House-Price-Prediction-Advanced-Regression/heatmap.png)
 
 ### Ploting Ocean Proximity
 
